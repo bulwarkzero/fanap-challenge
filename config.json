@@ -1,0 +1,17 @@
+{
+    "debug": true,
+    "http": {
+        "address": "localhost",
+        "port": 8085
+    },
+    "db": {
+        "engine": "postgres",
+        "host": "localhost",
+        "port": 5432,
+        "username": "postgres",
+        "password": "1",
+        "db_name": "fanap-challenge",
+        "ssl_mode": "disable",
+        "debug": true
+    }
+}
